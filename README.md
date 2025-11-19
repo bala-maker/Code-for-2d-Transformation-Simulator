@@ -33,4 +33,4 @@ Helps students visualize linear algebra and coordinate transformations
 
 Single-file implementation
 
-Pure HTML, CSS, and JavaScript (no libraries required)# Code-for-2d-Transformation-Simulator
+Pure HTML, CSS, and JavaScript (no libraries required)
